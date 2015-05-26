@@ -50,6 +50,8 @@ Name | Description
 [Ion](https://github.com/koush/ion) | Android Asynchronous Networking and Image Loading.
 
 ###Loading Images
+Name | Description
+--- | --- 
 [Fresco](https://github.com/facebook/fresco) | Official imageloader from Facebook.
 
 ###ORM
