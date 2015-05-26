@@ -25,6 +25,33 @@ Name | Repository
 
 ##Libraries
 
+###Dependency Injection
+Name | Description
+--- | --- 
+[Dagger](https://github.com/square/Dagger) | A fast dependency injector for Android and Java. 
+[ButterKnife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android.
+[RoboGuice](https://github.com/roboguice/roboguice) | Google Guice on Android, version 3.0
+[AndroidAnnotations](https://github.com/excilys/androidannotations) | Fast Android Development. Easy maintainance.
+
+###JSON
+Name | Description
+--- | --- 
+[Gson](https://github.com/google/gson)| Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
+[Jackson](http://jackson.codehaus.org/) | High-performance JSON processor.
+[FastJson](https://github.com/alibaba/fastjson) | Fastjson is a JSON processor (JSON parser + JSON generator) written in Java.
+
+###Networking
+Name | Description
+--- | --- 
+[Volley](https://android.googlesource.com/platform/frameworks/volley/) | Official Android HTTP library that makes networking for easier and faster.
+[android-async-http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android.
+[OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications.
+[Ion](https://github.com/koush/ion) | Android Asynchronous Networking and Image Loading.
+
+###Loading Images
+
+###ORM
+
 ##License
 
     Copyright 2015 Eric Liu
