@@ -36,6 +36,7 @@ Name | Description
 ###JSON
 Name | Description
 --- | --- 
+[LoganSquare](https://github.com/bluelinelabs/LoganSquare)| The fastest serializable and deserializable from Json to model for Android.
 [Gson](https://github.com/google/gson)| Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 [Jackson](http://jackson.codehaus.org/) | High-performance JSON processor.
 [FastJson](https://github.com/alibaba/fastjson) | Fastjson is a JSON processor (JSON parser + JSON generator) written in Java.
@@ -49,6 +50,7 @@ Name | Description
 [Ion](https://github.com/koush/ion) | Android Asynchronous Networking and Image Loading.
 
 ###Loading Images
+[Fresco](https://github.com/facebook/fresco) | Official imageloader from Facebook.
 
 ###ORM
 
