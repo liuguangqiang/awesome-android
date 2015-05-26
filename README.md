@@ -13,5 +13,32 @@ A awesome list of organizations, developers and libraries.
 - [Tumblr](https://github.com/tumblr)
 
 ##Developers
+Name | Repository
+--- | --- 
+[JakeWharton](https://github.com/JakeWharton) | [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock), [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator), [butterknife](https://github.com/JakeWharton/butterknife), [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
+[chrisbanes](https://github.com/chrisbanes) | [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh), [PhotoView](https://github.com/chrisbanes/PhotoView), [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh), [philm](https://github.com/chrisbanes/philm)
+[greenrobot](https://github.com/greenrobot) | [EventBus](https://github.com/greenrobot/EventBus), [greenDAO](https://github.com/greenrobot/greenDAO)
+[daimajia](https://github.com/daimajia) | [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout), [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+[nostra13](https://github.com/nostra13) | [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+[loopj](https://github.com/loopj) | [android-async-http](https://github.com/loopj/android-async-http), [android-smart-image-view](https://github.com/loopj/android-smart-image-view)
+[Trinea](https://github.com/Trinea) | [android-open-project](https://github.com/Trinea/android-open-project), [android-common](https://github.com/Trinea/android-common)
 
 ##Libraries
+
+##License
+
+    Copyright 2015 Eric Liu
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+  
