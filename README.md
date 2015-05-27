@@ -53,6 +53,10 @@ Name | Description
 Name | Description
 --- | --- 
 [Fresco](https://github.com/facebook/fresco) | Official imageloader from Facebook.
+[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | Powerful and flexible library for loading, caching and displaying images on Android.
+[Picasso](https://github.com/square/picasso) | A powerful image downloading and caching library for Android.
+[Glide](https://github.com/bumptech/glide) | An image loading and caching library for Android focused on smooth scrolling.
+[ImageLoader](https://github.com/novoda/image-loader) | Library for async image loading and caching on Android.
 
 ###ORM
 
