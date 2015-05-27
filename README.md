@@ -23,6 +23,9 @@ A awesome list of organizations, developers and libraries.
 - [Github](https://github.com/github)
 - [Airbnb](https://github.com/airbnb)
 - [Tumblr](https://github.com/tumblr)
+- [Alibaba](https://github.com/alibaba)
+- [Google Samples](https://github.com/googlesamples)
+- [ReactiveX](https://github.com/reactivex)
 
 ##Developers
 Name | Repository
@@ -34,6 +37,10 @@ Name | Repository
 [nostra13](https://github.com/nostra13) | [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 [loopj](https://github.com/loopj) | [android-async-http](https://github.com/loopj/android-async-http), [android-smart-image-view](https://github.com/loopj/android-smart-image-view)
 [Trinea](https://github.com/Trinea) | [android-open-project](https://github.com/Trinea/android-open-project), [android-common](https://github.com/Trinea/android-common)
+[jfeinstein10](https://github.com/jfeinstein10) | [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu), [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager)
+[koush](https://github.com/koush) | [ion](https://github.com/koush/ion), [AndroidAsync](https://github.com/koush/AndroidAsync)
+[jgilfelt](https://github.com/jgilfelt) | [SystemBarTint](https://github.com/jgilfelt/SystemBarTint), [android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
+[afollestad](https://github.com/afollestad) | [material-dialogs](https://github.com/afollestad/material-dialogs)
 
 ##Libraries
 
