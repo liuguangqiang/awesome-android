@@ -7,10 +7,10 @@ A awesome list of organizations, developers and libraries.
 - [Organizations](#organizations)
 - [Developers](#developers)
 - [Libraries](#libraries)
-	- [Dependency Injection](#dependency-njection)
+	- [Dependency Injection](#dependency-injection)
 	- [JSON](#json)
 	- [Networking](#networking)
-	- [Loading Images](loading-images)
+	- [Loading Images](#loading-images)
 	- [ORM](#orm)
 	- [EventBus](#eventbus)
 
