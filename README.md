@@ -92,6 +92,11 @@ Name | Description
 [otto](https://github.com/square/otto) | An enhanced Guava-based event bus with emphasis on Android support.
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) | RxJava bindings for Android.
 
+###Detect Memory Leaks
+Name | Description
+--- | --- 
+[LeakCanary](https://github.com/square/leakcanary) | A memory leak detection library for Android and Java.
+
 ##License
 
     Copyright 2015 Eric Liu
