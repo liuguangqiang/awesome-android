@@ -13,6 +13,8 @@ A awesome list of organizations, developers and libraries.
 	- [Loading Images](#loading-images)
 	- [ORM](#orm)
 	- [EventBus](#eventbus)
+	- [Charts](#charts)
+	- [Detect Memory Leaks](#detect-memory-leaks)
 
 ##Organizations
 
@@ -91,6 +93,13 @@ Name | Description
 [EventBus](https://github.com/greenrobot/EventBus) | Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 [otto](https://github.com/square/otto) | An enhanced Guava-based event bus with emphasis on Android support.
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) | RxJava bindings for Android.
+
+###Charts
+Name | Description
+--- | --- 
+[EazeGraph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library
+[HelloCharts](https://github.com/lecho/hellocharts-android) | Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
+[WilliamChart](https://github.com/diogobernardino/WilliamChart) | Android library to create charts.
 
 ###Detect Memory Leaks
 Name | Description
