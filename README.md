@@ -101,6 +101,12 @@ Name | Description
 [HelloCharts](https://github.com/lecho/hellocharts-android) | Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
 [WilliamChart](https://github.com/diogobernardino/WilliamChart) | Android library to create charts.
 
+###Animations
+Name | Description
+--- | --- 
+[Rebound](https://github.com/facebook/rebound) | A Java library that models spring dynamics and adds real world physics to your app.
+[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!
+
 ###Detect Memory Leaks
 Name | Description
 --- | --- 
