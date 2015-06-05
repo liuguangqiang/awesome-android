@@ -106,6 +106,9 @@ Name | Description
 --- | --- 
 [Rebound](https://github.com/facebook/rebound) | A Java library that models spring dynamics and adds real world physics to your app.
 [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!
+[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators) | An Android library which provides simple Item animations to RecyclerView items.
+[ArcAnimator](https://github.com/asyl/ArcAnimator) | ArcAnimator helps to create arc transition animation: 2.3+.
+[Material-Animations](https://github.com/lgvalle/Material-Animations) | Android Transition animations explanation with examples.
 
 ###Detect Memory Leaks
 Name | Description
