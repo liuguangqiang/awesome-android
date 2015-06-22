@@ -100,6 +100,7 @@ Name | Description
 [EazeGraph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library
 [HelloCharts](https://github.com/lecho/hellocharts-android) | Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
 [WilliamChart](https://github.com/diogobernardino/WilliamChart) | Android library to create charts.
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | An Android chart and graph library supporting scaling and dragging by gesture.
 
 ###Animations
 Name | Description
