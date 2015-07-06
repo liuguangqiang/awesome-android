@@ -29,6 +29,7 @@ A awesome list of organizations, developers and libraries.
 - [Google Samples](https://github.com/googlesamples)
 - [ReactiveX](https://github.com/reactivex)
 - [Airbnb](https://github.com/airbnb)
+- [Uber](https://github.com/uber)
 
 ##Developers
 Name | Repository
