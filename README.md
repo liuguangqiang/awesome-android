@@ -113,6 +113,11 @@ Name | Description
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | ArcAnimator helps to create arc transition animation: 2.3+.
 [Material-Animations](https://github.com/lgvalle/Material-Animations) | Android Transition animations explanation with examples.
 
+###Notification
+Name | Description
+--- | --- 
+[pugnotification](https://github.com/halysongoncalves/pugnotification) | A powerful library for creating notifications in android platform.
+
 ###Detect Memory Leaks
 Name | Description
 --- | --- 
