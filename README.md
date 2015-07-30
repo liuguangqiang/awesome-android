@@ -113,6 +113,13 @@ Name | Description
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | ArcAnimator helps to create arc transition animation: 2.3+.
 [Material-Animations](https://github.com/lgvalle/Material-Animations) | Android Transition animations explanation with examples.
 
+###Dialog
+Name | Description
+--- | --- 
+[MaterialDialogs](https://github.com/afollestad/material-dialogs) | A beautiful, easy-to-use, and customizable dialogs API, enabling you to use Material designed dialogs down to API 8.
+[SweetAlertDialog](https://github.com/pedant/sweet-alert-dialog) | SweetAlert for Android, a beautiful and clever alert dialog.
+[NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects) | Nifty Modal Dialog Effects.
+
 ###Notification
 Name | Description
 --- | --- 
