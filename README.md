@@ -49,6 +49,14 @@ Name | Repository
 
 ##Libraries
 
+###Reactive Extensions
+Name | Description
+--- | --- 
+[RxJava](https://github.com/ReactiveX/RxJava) | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+[RxAndroid](https://github.com/ReactiveX/RxAndroid) | Android specific bindings for RxJava.
+[RxBinding](https://github.com/JakeWharton/RxBinding) | RxJava binding APIs for Android's UI widgets.
+
+
 ###Dependency Injection
 Name | Description
 --- | --- 
