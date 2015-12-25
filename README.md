@@ -30,6 +30,7 @@ A awesome list of organizations, developers and libraries.
 - [ReactiveX](https://github.com/reactivex)
 - [Airbnb](https://github.com/airbnb)
 - [Uber](https://github.com/uber)
+- [Yalantis](https://github.com/Yalantis)
 
 ##Developers
 Name | Repository
@@ -67,10 +68,12 @@ Name | Description
 ###Networking
 Name | Description
 --- | --- 
+[Retrofit](https://github.com/square/retrofit) | Type-safe HTTP client for Android and Java by Square, Inc.
 [Volley](https://android.googlesource.com/platform/frameworks/volley/) | Official Android HTTP library that makes networking for easier and faster.
 [android-async-http](https://github.com/loopj/android-async-http) | An Asynchronous HTTP Library for Android.
 [OkHttp](https://github.com/square/okhttp) | An HTTP+SPDY client for Android and Java applications.
 [Ion](https://github.com/koush/ion) | Android Asynchronous Networking and Image Loading.
+[AsyncOkHttp](https://github.com/liuguangqiang/AsyncOkHttp) | An Android HTTP Library with OkHttp. 
 
 ###Loading Images
 Name | Description
