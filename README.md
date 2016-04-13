@@ -142,6 +142,11 @@ Name | Description
 --- | --- 
 [LeakCanary](https://github.com/square/leakcanary) | A memory leak detection library for Android and Java.
 
+###Blur
+Name | Description
+--- | --- 
+[500px-android-blur](https://github.com/500px/500px-android-blur) | Android Blurring View.
+
 ##License
 
     Copyright 2015 Eric Liu
