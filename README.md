@@ -143,6 +143,13 @@ Name | Description
 --- | --- 
 [LeakCanary](https://github.com/square/leakcanary) | A memory leak detection library for Android and Java.
 
+###Images
+Name | Description
+--- | --- 
+[RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.
+[android-crop](https://github.com/jdamcd/android-crop) | Android library project for cropping images.
+[Compressor](https://github.com/zetbaitsu/Compressor) | An android image compression library.
+
 ###Blur
 Name | Description
 --- | --- 
