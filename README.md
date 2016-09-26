@@ -1,4 +1,4 @@
-TopAndroid
+Awesome Android
 ==================
 A awesome list of organizations, developers and libraries.
 
