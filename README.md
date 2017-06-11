@@ -2,7 +2,7 @@ Awesome Android
 ==================
 A awesome list of organizations, developers and libraries.
 
-##Content
+## Content
 
 - [Organizations](#organizations)
 - [Developers](#developers)
@@ -16,7 +16,7 @@ A awesome list of organizations, developers and libraries.
 	- [Charts](#charts)
 	- [Detect Memory Leaks](#detect-memory-leaks)
 
-##Organizations
+## Organizations
 
 - [Google](https://github.com/google)
 - [Facebook](https://github.com/facebook)
@@ -33,7 +33,7 @@ A awesome list of organizations, developers and libraries.
 - [Yalantis](https://github.com/Yalantis)
 - [500px](https://github.com/500px)
 
-##Developers
+## Developers
 Name | Repository
 --- | --- 
 [JakeWharton](https://github.com/JakeWharton) | [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock), [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator), [butterknife](https://github.com/JakeWharton/butterknife), [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
@@ -48,9 +48,9 @@ Name | Repository
 [jgilfelt](https://github.com/jgilfelt) | [SystemBarTint](https://github.com/jgilfelt/SystemBarTint), [android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
 [afollestad](https://github.com/afollestad) | [material-dialogs](https://github.com/afollestad/material-dialogs)
 
-##Libraries
+## Libraries
 
-###Reactive Extensions
+### Reactive Extensions
 Name | Description
 --- | --- 
 [RxJava](https://github.com/ReactiveX/RxJava) | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -58,7 +58,7 @@ Name | Description
 [RxBinding](https://github.com/JakeWharton/RxBinding) | RxJava binding APIs for Android's UI widgets.
 
 
-###Dependency Injection
+### Dependency Injection
 Name | Description
 --- | --- 
 [Dagger](https://github.com/square/Dagger) | A fast dependency injector for Android and Java. 
@@ -66,7 +66,7 @@ Name | Description
 [RoboGuice](https://github.com/roboguice/roboguice) | Google Guice on Android, version 3.0
 [AndroidAnnotations](https://github.com/excilys/androidannotations) | Fast Android Development. Easy maintainance.
 
-###JSON
+### JSON
 Name | Description
 --- | --- 
 [LoganSquare](https://github.com/bluelinelabs/LoganSquare)| The fastest serializable and deserializable from Json to model for Android.
@@ -74,7 +74,7 @@ Name | Description
 [Jackson](http://jackson.codehaus.org/) | High-performance JSON processor.
 [FastJson](https://github.com/alibaba/fastjson) | Fastjson is a JSON processor (JSON parser + JSON generator) written in Java.
 
-###Networking
+### Networking
 Name | Description
 --- | --- 
 [Retrofit](https://github.com/square/retrofit) | Type-safe HTTP client for Android and Java by Square, Inc.
@@ -84,7 +84,7 @@ Name | Description
 [Ion](https://github.com/koush/ion) | Android Asynchronous Networking and Image Loading.
 [AsyncOkHttp](https://github.com/liuguangqiang/AsyncOkHttp) | An Android HTTP Library with OkHttp. 
 
-###Loading Images
+### Loading Images
 Name | Description
 --- | --- 
 [Fresco](https://github.com/facebook/fresco) | Official imageloader from Facebook.
@@ -93,7 +93,7 @@ Name | Description
 [Glide](https://github.com/bumptech/glide) | An image loading and caching library for Android focused on smooth scrolling.
 [ImageLoader](https://github.com/novoda/image-loader) | Library for async image loading and caching on Android.
 
-###ORM
+### ORM
 Name | Description
 --- | --- 
 [ActiveAndroid](https://github.com/pardom/ActiveAndroid) | Active record style SQLite persistence for Android.
@@ -102,14 +102,14 @@ Name | Description
 [ormlite-android](https://github.com/j256/ormlite-android) | ORMLite Android functionality used in conjunction with ormlite-core.
 [DBFlow](https://github.com/Raizlabs/DBFlow) | A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
 
-###EventBus
+### EventBus
 Name | Description
 --- | --- 
 [EventBus](https://github.com/greenrobot/EventBus) | Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 [otto](https://github.com/square/otto) | An enhanced Guava-based event bus with emphasis on Android support.
 [RxAndroid](https://github.com/ReactiveX/RxAndroid) | RxJava bindings for Android.
 
-###Charts
+### Charts
 Name | Description
 --- | --- 
 [EazeGraph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library
@@ -117,7 +117,7 @@ Name | Description
 [WilliamChart](https://github.com/diogobernardino/WilliamChart) | Android library to create charts.
 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | An Android chart and graph library supporting scaling and dragging by gesture.
 
-###Animations
+### Animations
 Name | Description
 --- | --- 
 [Rebound](https://github.com/facebook/rebound) | A Java library that models spring dynamics and adds real world physics to your app.
@@ -126,36 +126,37 @@ Name | Description
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | ArcAnimator helps to create arc transition animation: 2.3+.
 [Material-Animations](https://github.com/lgvalle/Material-Animations) | Android Transition animations explanation with examples.
 
-###Dialog
+### Dialog
 Name | Description
 --- | --- 
 [MaterialDialogs](https://github.com/afollestad/material-dialogs) | A beautiful, easy-to-use, and customizable dialogs API, enabling you to use Material designed dialogs down to API 8.
 [SweetAlertDialog](https://github.com/pedant/sweet-alert-dialog) | SweetAlert for Android, a beautiful and clever alert dialog.
 [NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects) | Nifty Modal Dialog Effects.
 
-###Notification
+### Notification
 Name | Description
 --- | --- 
 [pugnotification](https://github.com/halysongoncalves/pugnotification) | A powerful library for creating notifications in android platform.
 
-###Detect Memory Leaks
+### Detect Memory Leaks
 Name | Description
 --- | --- 
 [LeakCanary](https://github.com/square/leakcanary) | A memory leak detection library for Android and Java.
 
-###Images
-Name | Description
---- | --- 
-[RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.
-[android-crop](https://github.com/jdamcd/android-crop) | Android library project for cropping images.
-[Compressor](https://github.com/zetbaitsu/Compressor) | An android image compression library.
+### ImageView
+Name | Description | 中文描述
+--- | --- | ---
+[RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy. | 圆角图片
+[android-crop](https://github.com/jdamcd/android-crop) | Android library project for cropping images. | 一个裁剪图片的库
+[Compressor](https://github.com/zetbaitsu/Compressor) | An android image compression library. | 一个图像压缩库。
+[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc. | 支持平移,手势缩放的可扩展的ImageView
 
-###Blur
+### Blur
 Name | Description
 --- | --- 
 [500px-android-blur](https://github.com/500px/500px-android-blur) | Android Blurring View.
 
-##License
+## License
 
     Copyright 2015 Eric Liu
 
