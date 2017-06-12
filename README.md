@@ -15,6 +15,8 @@ A awesome list of organizations, developers and libraries.
 	- [EventBus](#eventbus)
 	- [Charts](#charts)
 	- [Detect Memory Leaks](#detect-memory-leaks)
+	- [ImageView](#imageview)
+	- [ViewPager](#viewpager)
 
 ## Organizations
 
@@ -150,6 +152,11 @@ Name | Description | 中文描述
 [android-crop](https://github.com/jdamcd/android-crop) | Android library project for cropping images. | 一个裁剪图片的库
 [Compressor](https://github.com/zetbaitsu/Compressor) | An android image compression library. | 一个图像压缩库。
 [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc. | 支持平移,手势缩放的可扩展的ImageView
+
+### ViewPager
+Name | Description | 中文描述
+--- | --- | ---
+[MaterialViewPager](https://github.com/florent37/MaterialViewPager) | A Material Design ViewPager easy to use library | Material风格的ViewPager
 
 ### Blur
 Name | Description
