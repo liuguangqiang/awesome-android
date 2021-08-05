@@ -98,11 +98,13 @@ Name | Description
 ### ORM
 Name | Description
 --- | --- 
+[Room](https://developer.android.com/jetpack/androidx/releases/room) | The Room persistence library provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite. 
 [ActiveAndroid](https://github.com/pardom/ActiveAndroid) | Active record style SQLite persistence for Android.
 [greenDAO](https://github.com/greenrobot/greenDAO) | greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 [Sugar](https://github.com/satyan/sugar) | Insanely easy way to work with Android Database. 
 [ormlite-android](https://github.com/j256/ormlite-android) | ORMLite Android functionality used in conjunction with ormlite-core.
 [DBFlow](https://github.com/Raizlabs/DBFlow) | A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
+
 
 ### EventBus
 Name | Description
@@ -148,15 +150,17 @@ Name | Description
 ### ImageView
 Name | Description | 中文描述
 --- | --- | ---
+[Matisse](https://github.com/zhihu/Matisse) | Matisse is a well-designed local image and video selector for Android. | 知乎开源的图片选择库
 [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy. | 圆角图片
 [android-crop](https://github.com/jdamcd/android-crop) | Android library project for cropping images. | 一个裁剪图片的库
 [Compressor](https://github.com/zetbaitsu/Compressor) | An android image compression library. | 一个图像压缩库。
 [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc. | 支持平移,手势缩放的可扩展的ImageView
 
-### ViewPager
-Name | Description | 中文描述
---- | --- | ---
-[MaterialViewPager](https://github.com/florent37/MaterialViewPager) | A Material Design ViewPager easy to use library | Material风格的ViewPager
+### ViewPager or Banner
+Name | Description 
+--- | --- 
+[MaterialViewPager](https://github.com/florent37/MaterialViewPager) | A Material Design ViewPager easy to use library 
+[banner](https://github.com/youth5201314/banner) | 只做一个可以自定义的轮播容器，不侵入UI ———— Banner 2.0
 
 ### Blur
 Name | Description
